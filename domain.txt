@@ -30,6 +30,7 @@ codefund.app
 codefund.io
 codepen.io
 cpubenchmark.net
+dart.dev
 dartlang.org
 dartpad.dev
 decompiler.com
@@ -94,6 +95,7 @@ ipinfo.io
 javadecompilers.com
 jcenter.bintray.com
 jetbrains.com
+jisumax.com
 jisusub.cc
 jitpack.io
 jsbin.com
@@ -133,6 +135,7 @@ reactos.org
 regex101.com
 rhyland.top
 rsyslog.com
+rubygems.org
 scdn.co
 sentry-cdn.com
 servedby-buysellads.com
