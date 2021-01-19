@@ -6,6 +6,7 @@ amazonaws.com
 android.com
 angularjs.org
 aolcdn.com
+api.vpnfly.net
 appcues.com
 appelsiini.net
 apple.com
@@ -49,8 +50,8 @@ eggjs.org
 electron.build
 fast.com
 fastly.net
-flutter-io.cn
 flutter.dev
+flutter.io
 fontawesome.com
 freenom.com
 g.co
